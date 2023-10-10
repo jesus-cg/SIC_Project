@@ -1,2 +1,1 @@
-print("Axl Gil")
-print("Jesús Campos")
+print("Axl Gil Islas")
